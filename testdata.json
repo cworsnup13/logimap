@@ -1,7 +1,7 @@
 {
   "Connections" : [
-    ["my dik", "yo mama"],
-    ["peanut butter", "Jelly"],
-    ["me", "your heart"]
+    ["10.0.0.0", "10.0.0.1"],
+    ["10.0.0.1", "10.0.0.4"],
+    ["role[web]", "10.0.0.3"]
   ]
 }
